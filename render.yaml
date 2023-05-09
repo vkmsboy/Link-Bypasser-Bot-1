@@ -9,19 +9,19 @@ services:
     branch: main
     envVars:
       - key: TOKEN 
-      value: ""
+      - value: ""
         sync: false
       - key:  ID 
-      value: ""
+      - value: ""
         sync: false
       - key: HASH 
-      value: ""
+      - value: ""
         sync: false
       - key: XSRF_TOKEN
-      value: "eyJpdiI6IjAyRVhzektFSHEzZVFhYWx6WG9iOHc9PSIsInZhbHVlIjoibkhMTDFEM3N0OXV0QmpvcUhqWlFsTEl1Qzc5TndaQnlNMEM5WXdYS0NYMHlOdTl2WmFhaUxNXC9MOFZoXC83V0dwIiwibWFjIjoiZGVlOWU3NDVkNTcyNDNmZGMzZWEyMWExMGZjZDU4NGE0MzMzODRlNTg5MTUwZGJhZTE4ZDg4NTI2NGNmZjZiMyJ9%3D%3D"
+      - value: "eyJpdiI6IjAyRVhzektFSHEzZVFhYWx6WG9iOHc9PSIsInZhbHVlIjoibkhMTDFEM3N0OXV0QmpvcUhqWlFsTEl1Qzc5TndaQnlNMEM5WXdYS0NYMHlOdTl2WmFhaUxNXC9MOFZoXC83V0dwIiwibWFjIjoiZGVlOWU3NDVkNTcyNDNmZGMzZWEyMWExMGZjZDU4NGE0MzMzODRlNTg5MTUwZGJhZTE4ZDg4NTI2NGNmZjZiMyJ9%3D%3D"
       value:
         synv: false 
       - key: Laravel_Session 
-      value: "eyJpdiI6IlRkQTJaamY2XC9JZHZmZ09GaWwzQmZnPT0iLCJ2YWx1ZSI6IjBVR1JJZDRrK3hwTmtFZ2NTSHdrVnJQMWJ5OGE2XC9Nc01CenhyNUtIcDFwODRsODhFNkVieEo0RTJnT3hhXC91VCIsIm1hYyI6IjdhYjUyNWJhYTQxMDgyMjk2MTEzY2RkZjQ0Y2E2ZmRjNzJlZjJkZWZmMmMzNzI3ZmQ1ZWM1ZDlkY2VjMjQxMjkifQ%3D%3D%3D%3D"
+      - value: "eyJpdiI6IlRkQTJaamY2XC9JZHZmZ09GaWwzQmZnPT0iLCJ2YWx1ZSI6IjBVR1JJZDRrK3hwTmtFZ2NTSHdrVnJQMWJ5OGE2XC9Nc01CenhyNUtIcDFwODRsODhFNkVieEo0RTJnT3hhXC91VCIsIm1hYyI6IjdhYjUyNWJhYTQxMDgyMjk2MTEzY2RkZjQ0Y2E2ZmRjNzJlZjJkZWZmMmMzNzI3ZmQ1ZWM1ZDlkY2VjMjQxMjkifQ%3D%3D%3D%3D"
         sync: false   
     autoDeploy: false
